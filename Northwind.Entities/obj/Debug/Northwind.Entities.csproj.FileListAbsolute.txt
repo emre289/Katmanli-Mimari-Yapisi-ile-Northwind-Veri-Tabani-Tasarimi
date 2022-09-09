@@ -1,0 +1,6 @@
+D:\M.STUDİO PROJELER\NKatmanlıApp\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+D:\M.STUDİO PROJELER\NKatmanlıApp\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+D:\M.STUDİO PROJELER\NKatmanlıApp\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
+D:\M.STUDİO PROJELER\NKatmanlıApp\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+D:\M.STUDİO PROJELER\NKatmanlıApp\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+D:\M.STUDİO PROJELER\NKatmanlıApp\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
